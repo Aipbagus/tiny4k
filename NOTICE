@@ -1,0 +1,7 @@
+This project is a fork of sunfish by Thomas Ahle
+(https://github.com/thomasahle/sunfish), licensed under the GNU General
+Public License v3.0. The search core in main.py / engine_src.py derives
+from sunfish; the FEN adapter and competition env driver were written for
+the make.fun tiny-chess-01 competition.
+
+Licensed under GPL-3.0. See LICENSE.
