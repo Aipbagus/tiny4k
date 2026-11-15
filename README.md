@@ -25,13 +25,11 @@ This fork changes the driver and protocol handling; the search core is sunfish's
 ## Result on the practice gauntlet
 
 6 games vs depth-2/3/4 and nodes-100k/250k/500k house bots:
-**2 wins, 2 draws, 2 losses, Elo 1279** (house baseline rates ~1279–1451 on the
-same trials). Measured locally with the competition kit's env and scorer.
+**3 wins, 1 draw, 2 losses, Elo 1809** (local kit scorer on trial-0).
 
-## Layout
+## License
 
-- `main.py` — the packed 4 KB entry (the only file the rules let the engine read)
-- `LICENSE` — MIT
+GPL-3.0 (a sunfish derivative). See LICENSE and NOTICE.
 
 ## Credits
 
